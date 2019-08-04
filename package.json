@@ -1,0 +1,27 @@
+{
+  "name": "bootstrap-vue-toast",
+  "version": "1.0.0",
+  "description": "A simple wrapper to easily include bootstrap-vue toast plugin in your project. Uses bootstrap-vue ToastPlugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "toast",
+    "toaster",
+    "boostrap",
+    "4",
+    "notifications",
+    "alerts",
+    "vue",
+    "bootstrap",
+    "bootstrap-vue"
+  ],
+  "author": "manuelgeek",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "bootstrap-vue": "^2.0.0-rc.27",
+    "vue": "^2.6.10"
+  }
+}
